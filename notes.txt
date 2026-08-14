@@ -1,0 +1,5 @@
+git branch shows you your local branches
+git checkout -b/branch name create branch
+git branch -a shows you ur your local branches plus thes in github(online)
+git checkout branch name-switch to an existing branch
+create develop branch b4 any feature branchgit
